@@ -1,6 +1,3 @@
-&nbsp;<div align="center">
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21h35iudoqqdlku7oqgjnlxly&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
-</div>
 
 ```python
 #!/usr/bin/python
@@ -25,4 +22,5 @@ class TegarIbrahim:
 me = TegarIbrahim()
 me.say_hi()
 ```
+</div>
 
