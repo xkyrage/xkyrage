@@ -7,9 +7,9 @@ class TegarIbrahim:
     def __init__(self):
         self.name = "Tegar Ibrahim"
         self.roles = [
-            "QA & Testing",
             "Web Developer",
             "Web / Graphic Designer",
+            "QA & Testing",
             "Game Developer",
             "Music Producer / Rapper",
             "Arch Linux Enthusiast"
