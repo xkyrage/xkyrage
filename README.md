@@ -9,8 +9,8 @@ class TegarIbrahim:
         self.roles = [
             "Web Developer",
             "Web / Graphic Designer",
-            "QA & Testing",
             "Game Developer",
+            "QA & Testing",
             "Music Producer / Rapper",
             "Arch Linux Enthusiast"
         ]
