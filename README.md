@@ -11,7 +11,7 @@ class TegarIbrahim:
             "Web / Graphic Designer",
             "Game Developer",
             "QA Engineer & Penetration Tester",
-            "Music Producer / Rapper",
+            "Music Producer",
             "Arch Linux Enthusiast"
         ]
         self.language_spoken = ["id_ID", "en_US"]
