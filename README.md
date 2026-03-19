@@ -10,7 +10,7 @@ class TegarIbrahim:
             "Web Developer",
             "Web / Graphic Designer",
             "Game Developer",
-            "QA & Testing",
+            "QA Engineer & Penetration Testing",
             "Music Producer / Rapper",
             "Arch Linux Enthusiast"
         ]
